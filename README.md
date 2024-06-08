@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ganesh Siddhartha
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently learning Data Analysis and Web Devlopment
 - 📫 How to reach me ganeshsiddhartha.d@gmail.com
 
 <!---
